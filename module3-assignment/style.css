@@ -1,0 +1,42 @@
+.intr{
+    color:black;
+    font-weight: 900;
+    font-size: 150[x];
+    text-align: center;
+    background-color: rgb(170, 170, 252);
+    border: black 1px;
+}
+.heading{
+    color: black;;
+    font-size: 180[x];
+    font-weight: 700;
+
+}
+
+div.title{
+    color: black;;
+    font-size: 150[x];
+    font-weight: 600;
+}
+
+.option{
+        text-align: center;
+        background-color: white;
+        border: 1px solid black;
+        width: 100%;
+}
+@media(min-width:768px){
+    .tog{
+        visibility: hidden;
+    }
+    .intr{
+        text-align: center;
+    }
+}
+div.pak{
+    background-color: rgb(170, 170, 252);
+    border: 1px solid black;
+    width: 80%;
+    padding: 20px;
+    margin: 0 auto;
+}
